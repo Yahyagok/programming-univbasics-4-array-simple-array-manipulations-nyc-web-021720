@@ -3,7 +3,7 @@
 
 
 def using_push(array,elements)
-  array.push("string")
+  array.push("violet")
   
   
 end 
