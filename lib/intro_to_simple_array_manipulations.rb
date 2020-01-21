@@ -22,7 +22,9 @@ def pop_with_args(array)
 end 
 
 
-def using_concat
+def using_concat(array_1,aaray_2)
+  
+  array_1.concat()
   
   
 end 
