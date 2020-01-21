@@ -48,6 +48,10 @@ def using_uniq(kitaplar)
 kitaplar.uniq
 end 
 
+def using_flatten(kitaplar)
+  
+end 
+
 
 
 
