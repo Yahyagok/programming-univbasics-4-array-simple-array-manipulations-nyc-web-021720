@@ -57,7 +57,7 @@ def using_delete(books,book)
  books.delete(book) 
 end 
 
-def using_delete_at(books,5)
+def using_delete_at(books,book)
   books.delete_at(2)
   
 end 
