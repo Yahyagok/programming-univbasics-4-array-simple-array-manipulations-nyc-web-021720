@@ -45,8 +45,8 @@ end
 
 
 def using_uniq(kitaplar)
-
-
+kitaplar.uniq
+end 
 
 
 
