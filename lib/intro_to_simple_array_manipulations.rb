@@ -49,7 +49,7 @@ kitaplar.uniq
 end 
 
 def using_flatten(kitaplar)
-  
+  kitaplar.flatten
 end 
 
 
