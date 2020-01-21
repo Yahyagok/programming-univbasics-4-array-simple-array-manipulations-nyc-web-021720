@@ -38,8 +38,8 @@ def using_concat(array_1,array_2)
   
 end 
 
-def using_insert(array,yarrak)
-  array.insert(4,yarrak)
+def using_insert(array,element)
+  array.insert(4,element)
   
 end 
 
