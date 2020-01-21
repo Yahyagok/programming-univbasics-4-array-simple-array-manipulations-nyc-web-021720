@@ -53,6 +53,9 @@ def using_flatten(kitaplar)
 end 
 
 
+def using_delete(books,book)
+  
+end 
 
 
 
