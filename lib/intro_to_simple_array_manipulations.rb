@@ -2,7 +2,7 @@
 
 
 
-def using_push(array,elements)
+def using_push(Array, String)
   array.push("violet")
   
   
